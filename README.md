@@ -1,0 +1,2 @@
+# SISTEMA_VENTAS_UNINORTE
+Sistema de punto de ventas con HTML, CSS, JAVASCRIPT, PHP, MYSQL y MVC
